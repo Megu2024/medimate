@@ -1,0 +1,60 @@
+REMINDER_C1
+File: reminder_c1.wav
+It's medicine time. Please take your prescribed tablet from C one. Stay healthy.
+
+REMINDER_C2
+File: reminder_c2.wav
+It's medicine time. Please take your prescribed tablet from C two. Stay healthy.
+
+REMINDER_C3
+File: reminder_c3.wav
+It's medicine time. Please take your prescribed tablet from C three. Stay healthy.
+
+WRONG_DUE_C1_OPEN_C2
+File: wrong_due_c1_open_c2.wav
+Warning. Your medicine is due from C one, not C two. Close C two and open C one. Do not take medicine from the wrong box.
+
+WRONG_DUE_C1_OPEN_C3
+File: wrong_due_c1_open_c3.wav
+Warning. Your medicine is due from C one, not C three. Close C three and open C one. Do not take medicine from the wrong box.
+
+WRONG_DUE_C2_OPEN_C1
+File: wrong_due_c2_open_c1.wav
+Warning. Your medicine is due from C two, not C one. Close C one and open C two. Do not take medicine from the wrong box.
+
+WRONG_DUE_C2_OPEN_C3
+File: wrong_due_c2_open_c3.wav
+Warning. Your medicine is due from C two, not C three. Close C three and open C two. Do not take medicine from the wrong box.
+
+WRONG_DUE_C3_OPEN_C1
+File: wrong_due_c3_open_c1.wav
+Warning. Your medicine is due from C three, not C one. Close C one and open C three. Do not take medicine from the wrong box.
+
+WRONG_DUE_C3_OPEN_C2
+File: wrong_due_c3_open_c2.wav
+Warning. Your medicine is due from C three, not C two. Close C two and open C three. Do not take medicine from the wrong box.
+
+CORRECT_C1_OPENED
+File: correct_c1_opened.wav
+Correct box, C one. Please take your prescribed tablet as directed. Stay healthy.
+
+CORRECT_C2_OPENED
+File: correct_c2_opened.wav
+Correct box, C two. Please take your prescribed tablet as directed. Stay healthy.
+
+CORRECT_C3_OPENED
+File: correct_c3_opened.wav
+Correct box, C three. Please take your prescribed tablet as directed. Stay healthy.
+
+C1_CLOSED_ACK
+File: c1_closed_ack.wav
+C one is closed. If you have taken your scheduled tablet, thank you. Stay healthy.
+
+C2_CLOSED_ACK
+File: c2_closed_ack.wav
+C two is closed. If you have taken your scheduled tablet, thank you. Stay healthy.
+
+C3_CLOSED_ACK
+File: c3_closed_ack.wav
+C three is closed. If you have taken your scheduled tablet, thank you. Stay healthy.
+
